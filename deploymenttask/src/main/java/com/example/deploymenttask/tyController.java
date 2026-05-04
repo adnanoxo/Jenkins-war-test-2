@@ -19,4 +19,10 @@ public String index() {
 
 	return "index.html";
 }
+
+@GetMapping("/d")
+
+public String home()
+{
+	return "home.html";
 }
