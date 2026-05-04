@@ -58,6 +58,7 @@
 	</dependencies>
 
 	<build>
+		<finalName>ThyDep</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
